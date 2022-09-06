@@ -16,7 +16,7 @@ The answer list may be in *any order*.
 ## How To Run The Tests
 
 ```bash
-python3 -m unittest -v test.py
+python3 -m unittest -v tests.py
 ```
 
 
