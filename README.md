@@ -20,7 +20,7 @@ python3 -m unittest -v test.py
 ```
 
 
-## Example 2
+## Example 1
 
 ```python
 our_shared_values(
